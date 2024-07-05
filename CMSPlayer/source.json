@@ -6,15 +6,15 @@
     },
     {
         "name": "低端影视",
-        "api": "cms://ddys",
+        "api": "cms://ddys"
     },
     {
         "name": "在线之家",
-        "api": "cms://zxzj",
+        "api": "cms://zxzj"
     },
     {
         "name": "欧乐影院",
-        "api": "cms://ole",
+        "api": "cms://ole"
     },
     {
         "name": "极速资源",
