@@ -1,5 +1,13 @@
 # videoSources
 
+## 自用
+
+https://raw.githubusercontent.com/hydrionz/videoSources/main/zz/normal.json
+
+国内加速地址：
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/hydrionz/videoSources/main/zz/normal.json
+
 ## CMSPlayer
 ### 最全资源：
 https://raw.githubusercontent.com/hydrionz/videoSources/main/CMSPlayer/public/scorpio.json
