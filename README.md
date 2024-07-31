@@ -38,3 +38,9 @@ https://raw.githubusercontent.com/hydrionz/videoSources/main/SteveWatch/SteveTV.
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/hydrionz/videoSources/main/SteveWatch/SteveTV.json
 
 
+### zyplayer
+
+https://raw.githubusercontent.com/hydrionz/videoSources/main/zyplayer/zyplayer.json
+
+国内加速地址：
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/hydrionz/videoSources/main/zyplayer/zyplayer.json
